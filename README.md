@@ -52,7 +52,7 @@ Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoia
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/myttrindade/myttrindade/5067134652becf978ed3163beaf5ac398a6639f1/assets/projetos.svg" alt="Projetos em destaque" width="100%" />
+<img src="https://raw.githubusercontent.com/myttrindade/myttrindade/24732c29f7e940f886c56f70a80112489aa20c43/assets/projetos.svg" alt="Projetos em destaque" width="100%" />
 
 </div>
 
