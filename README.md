@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Maithê Trindade" width="100%" />
+<img src="assets/hero.svg?v=3" alt="Maithê Trindade" width="100%" />
 
 Analista de Dados, com foco crescente em Machine Learning e Inteligência Artificial.
 Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoiam decisões de negócio.
