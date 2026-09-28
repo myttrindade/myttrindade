@@ -12,7 +12,6 @@ Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoia
 📍 Santos, SP · Baixada Santista &nbsp;·&nbsp; 💻 Projetos remotos em todo o Brasil
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myttrindade.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maith%C3%AA-trindade-cardozo-4ba243376/)
 [![E-mail](https://img.shields.io/badge/E--mail-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maithetrindade21@gmail.com)
 
 </div>
@@ -59,41 +58,16 @@ Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoia
 
 ## Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/myttrindade/previsao-churn">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=myttrindade&repo=previsao-churn&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A&icon_color=EC4899&border_color=2C1636" />
-</a>
-<a href="https://github.com/myttrindade/previsao-demanda">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=myttrindade&repo=previsao-demanda&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A&icon_color=EC4899&border_color=2C1636" />
-</a>
-
-<a href="https://github.com/myttrindade/mytek-chat">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=myttrindade&repo=mytek-chat&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A&icon_color=EC4899&border_color=2C1636" />
-</a>
-<a href="https://github.com/myttrindade/pipeline-economia-brasil">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=myttrindade&repo=pipeline-economia-brasil&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A&icon_color=EC4899&border_color=2C1636" />
-</a>
-
-<a href="https://github.com/myttrindade/portfolio">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=myttrindade&repo=portfolio&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A&icon_color=EC4899&border_color=2C1636" />
-</a>
-<a href="https://github.com/myttrindade/mytek-hub">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=myttrindade&repo=mytek-hub&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A&icon_color=EC4899&border_color=2C1636" />
-</a>
-
-</div>
+| Projeto | O que é |
+|---|---|
+| **[Retém](https://github.com/myttrindade/previsao-churn)** | Previsão de churn do modelo à produção: LightGBM, explicação com SHAP, API FastAPI em produção |
+| **[Produz Certo](https://github.com/myttrindade/previsao-demanda)** | Previsão de demanda e plano de produção: séries temporais, LightGBM, API FastAPI em produção |
+| **[mytek Chat](https://github.com/myttrindade/mytek-chat)** | Assistente de IA com RAG agêntico (LangGraph), widget embutido no site oficial da mytek |
+| **[Pipeline Economia Brasil](https://github.com/myttrindade/pipeline-economia-brasil)** | Dados do Banco Central → dbt → DuckDB → dashboard que atualiza sozinho todo dia |
+| **[Mytek Hub](https://github.com/myttrindade/mytek-hub)** | Tarefas, wiki e mensagens da equipe, com integração via MCP para criar tarefas pela IA |
+| **[Portfólio](https://github.com/myttrindade/portfolio)** | Este perfil, o portfólio e os projetos acima, todos juntos |
 
 <br>
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=myttrindade&show_icons=true&hide_border=true&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A&icon_color=EC4899&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myttrindade&layout=compact&hide_border=true&title_color=F472B6&text_color=C2A6B6&bg_color=150A1A" />
-
-</div>
 
 <div align="center">
 <sub>Disponível para freelance e novas oportunidades em Data Analyst, BI e Machine Learning.</sub>
