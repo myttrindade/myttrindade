@@ -34,7 +34,7 @@
     <rect x="0.5" y="0.5" width="899" height="559" rx="20" fill="none" stroke="#2c1636" stroke-width="1"/>
 
     <text x="40" y="58" font-size="13" letter-spacing="3" fill="#e879f9" font-weight="bold">[ PROJETOS ]</text>
-    <text x="40" y="92" font-size="30" font-weight="bold" fill="url(#titleGrad)">Projetos em destaque</text>
+    <text x="40" y="92" font-size="30" font-weight="bold" fill="#fdeef6">Projetos em destaque</text>
     <line x1="40" y1="112" x2="860" y2="112" stroke="#2c1636" stroke-width="1"/>
 
     <!-- row template: y offsets -->
