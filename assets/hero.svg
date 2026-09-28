@@ -1,17 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 260" width="900" height="260" font-family="'Courier New', monospace">
   <defs>
     <radialGradient id="hglow1" cx="85%" cy="0%" r="80%">
-      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.40"/>
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="hglow2" cx="0%" cy="100%" r="75%">
-      <stop offset="0%" stop-color="#e879f9" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#e879f9" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="hglow3" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#f9a8d4" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#f9a8d4" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#2c1636" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2c1636" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#e879f9" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0.35"/>
+    </linearGradient>
     <linearGradient id="heroTitle" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f9a8d4"/>
       <stop offset="45%" stop-color="#f472b6"/>
@@ -32,6 +36,35 @@
     <rect width="900" height="260" fill="url(#hglow2)"/>
     <rect width="900" height="260" fill="url(#hglow3)"/>
     <rect x="0.5" y="0.5" width="899" height="259" rx="20" fill="none" stroke="#2c1636" stroke-width="1"/>
+
+    <!-- grafico de barras subindo, canto inferior direito -->
+    <g opacity="0.55">
+      <rect x="700" y="228" width="20" height="18" fill="url(#barGrad)"/>
+      <rect x="728" y="212" width="20" height="34" fill="url(#barGrad)"/>
+      <rect x="756" y="192" width="20" height="54" fill="url(#barGrad)"/>
+      <rect x="784" y="166" width="20" height="80" fill="url(#barGrad)"/>
+      <rect x="812" y="134" width="20" height="112" fill="url(#barGrad)"/>
+      <rect x="840" y="100" width="20" height="146" fill="url(#barGrad)"/>
+      <path d="M700 228 L728 212 L756 192 L784 166 L812 134 L840 100" fill="none" stroke="#f9a8d4" stroke-opacity="0.45" stroke-width="1.5"/>
+    </g>
+
+    <!-- rede de nos, canto superior esquerdo, insinuando IA -->
+    <g stroke="#e879f9" stroke-opacity="0.3" stroke-width="1">
+      <line x1="40" y1="40" x2="90" y2="65"/>
+      <line x1="90" y1="65" x2="70" y2="105"/>
+      <line x1="90" y1="65" x2="140" y2="50"/>
+      <line x1="140" y1="50" x2="170" y2="90"/>
+      <line x1="70" y1="105" x2="120" y2="120"/>
+      <line x1="120" y1="120" x2="170" y2="90"/>
+    </g>
+    <g fill="#f9a8d4" fill-opacity="0.65">
+      <circle cx="40" cy="40" r="3"/>
+      <circle cx="90" cy="65" r="3.5"/>
+      <circle cx="70" cy="105" r="3"/>
+      <circle cx="140" cy="50" r="3"/>
+      <circle cx="170" cy="90" r="3.5"/>
+      <circle cx="120" cy="120" r="3"/>
+    </g>
 
     <text x="450" y="95" font-size="46" font-weight="bold" fill="#fdeef6" text-anchor="middle">Maithê Trindade</text>
 
