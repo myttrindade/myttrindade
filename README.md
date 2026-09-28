@@ -56,16 +56,11 @@ Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoia
 
 <br>
 
-## Projetos em destaque
+<div align="center">
 
-| Projeto | O que é |
-|---|---|
-| **[Retém](https://github.com/myttrindade/previsao-churn)** | Previsão de churn do modelo à produção: LightGBM, explicação com SHAP, API FastAPI em produção |
-| **[Produz Certo](https://github.com/myttrindade/previsao-demanda)** | Previsão de demanda e plano de produção: séries temporais, LightGBM, API FastAPI em produção |
-| **[mytek Chat](https://github.com/myttrindade/mytek-chat)** | Assistente de IA com RAG agêntico (LangGraph), widget embutido no site oficial da mytek |
-| **[Pipeline Economia Brasil](https://github.com/myttrindade/pipeline-economia-brasil)** | Dados do Banco Central → dbt → DuckDB → dashboard que atualiza sozinho todo dia |
-| **[Mytek Hub](https://github.com/myttrindade/mytek-hub)** | Tarefas, wiki e mensagens da equipe, com integração via MCP para criar tarefas pela IA |
-| **[Portfólio](https://github.com/myttrindade/portfolio)** | Este perfil, o portfólio e os projetos acima, todos juntos |
+<img src="assets/projetos.svg" alt="Projetos em destaque" width="100%" />
+
+</div>
 
 <br>
 

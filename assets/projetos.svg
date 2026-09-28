@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 560" width="900" height="560" font-family="'Courier New', monospace">
+  <defs>
+    <radialGradient id="glow1" cx="80%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="5%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#e879f9" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#e879f9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3" cx="55%" cy="105%" r="55%">
+      <stop offset="0%" stop-color="#f9a8d4" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#f9a8d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f9a8d4"/>
+      <stop offset="45%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M 38 0 L 0 0 0 38" fill="none" stroke="#f472b6" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="900" height="560" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="900" height="560" fill="#0b0510"/>
+    <rect width="900" height="560" fill="url(#grid)"/>
+    <rect width="900" height="560" fill="url(#glow1)"/>
+    <rect width="900" height="560" fill="url(#glow2)"/>
+    <rect width="900" height="560" fill="url(#glow3)"/>
+    <rect x="0.5" y="0.5" width="899" height="559" rx="20" fill="none" stroke="#2c1636" stroke-width="1"/>
+
+    <text x="40" y="58" font-size="13" letter-spacing="3" fill="#e879f9" font-weight="bold">[ PROJETOS ]</text>
+    <text x="40" y="92" font-size="30" font-weight="bold" fill="url(#titleGrad)">Projetos em destaque</text>
+    <line x1="40" y1="112" x2="860" y2="112" stroke="#2c1636" stroke-width="1"/>
+
+    <!-- row template: y offsets -->
+    <g font-size="17" font-weight="bold" fill="#fdeef6">
+      <a xlink:href="https://github.com/myttrindade/previsao-churn" target="_blank">
+        <text x="40" y="152">Retém</text>
+        <text x="40" y="174" font-size="13" font-weight="normal" fill="#c2a6b6">Previsão de churn do modelo à produção · LightGBM · SHAP · FastAPI</text>
+        <rect x="30" y="130" width="840" height="56" fill="#f472b6" fill-opacity="0"/>
+      </a>
+    </g>
+    <line x1="40" y1="198" x2="860" y2="198" stroke="#1f0f26" stroke-width="1"/>
+
+    <g font-size="17" font-weight="bold" fill="#fdeef6">
+      <a xlink:href="https://github.com/myttrindade/previsao-demanda" target="_blank">
+        <text x="40" y="228">Produz Certo</text>
+        <text x="40" y="250" font-size="13" font-weight="normal" fill="#c2a6b6">Previsão de demanda e plano de produção · séries temporais · LightGBM</text>
+      </a>
+    </g>
+    <line x1="40" y1="274" x2="860" y2="274" stroke="#1f0f26" stroke-width="1"/>
+
+    <g font-size="17" font-weight="bold" fill="#fdeef6">
+      <a xlink:href="https://github.com/myttrindade/mytek-chat" target="_blank">
+        <text x="40" y="304">mytek Chat</text>
+        <text x="40" y="326" font-size="13" font-weight="normal" fill="#c2a6b6">Assistente de IA com RAG agêntico (LangGraph) · widget no site da mytek</text>
+      </a>
+    </g>
+    <line x1="40" y1="350" x2="860" y2="350" stroke="#1f0f26" stroke-width="1"/>
+
+    <g font-size="17" font-weight="bold" fill="#fdeef6">
+      <a xlink:href="https://github.com/myttrindade/pipeline-economia-brasil" target="_blank">
+        <text x="40" y="380">Pipeline Economia Brasil</text>
+        <text x="40" y="402" font-size="13" font-weight="normal" fill="#c2a6b6">Banco Central → dbt → DuckDB → dashboard que atualiza sozinho todo dia</text>
+      </a>
+    </g>
+    <line x1="40" y1="426" x2="860" y2="426" stroke="#1f0f26" stroke-width="1"/>
+
+    <g font-size="17" font-weight="bold" fill="#fdeef6">
+      <a xlink:href="https://github.com/myttrindade/mytek-hub" target="_blank">
+        <text x="40" y="456">Mytek Hub</text>
+        <text x="40" y="478" font-size="13" font-weight="normal" fill="#c2a6b6">Tarefas, wiki e mensagens da equipe · integração com IA via MCP</text>
+      </a>
+    </g>
+    <line x1="40" y1="502" x2="860" y2="502" stroke="#1f0f26" stroke-width="1"/>
+
+    <g font-size="17" font-weight="bold" fill="#fdeef6">
+      <a xlink:href="https://github.com/myttrindade/portfolio" target="_blank">
+        <text x="40" y="532">Portfólio</text>
+        <text x="240" y="532" font-size="13" font-weight="normal" fill="#c2a6b6">myttrindade.github.io/portfolio</text>
+      </a>
+    </g>
+  </g>
+</svg>
