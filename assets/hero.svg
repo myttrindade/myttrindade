@@ -33,8 +33,7 @@
     <rect width="900" height="260" fill="url(#hglow3)"/>
     <rect x="0.5" y="0.5" width="899" height="259" rx="20" fill="none" stroke="#2c1636" stroke-width="1"/>
 
-    <text x="442" y="95" font-size="46" font-weight="bold" fill="#fdeef6" text-anchor="end">Maithê</text>
-    <text x="458" y="95" font-size="46" font-weight="bold" fill="url(#heroTitle)" text-anchor="start">Trindade</text>
+    <text x="450" y="95" font-size="46" font-weight="bold" fill="#fdeef6" text-anchor="middle">Maithê Trindade</text>
 
     <text x="450" y="132" font-size="20" fill="#f9a8d4" text-anchor="middle">Data Analyst &#183; Machine Learning &#183; Intelig&#234;ncia Artificial</text>
 
