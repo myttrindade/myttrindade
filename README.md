@@ -1,15 +1,9 @@
 <div align="center">
 
-<a href="https://myttrindade.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2600&pause=1200&color=F472B6&background=0B0510&center=true&vCenter=true&width=560&height=60&lines=Data+Analyst+%C2%B7+Machine+Learning;Power+BI+%26+Modelos+Preditivos;Intelig%C3%AAncia+Artificial+Aplicada;Decis%C3%B5es+Orientadas+por+Dados" alt="Typing SVG" />
-</a>
-
-### Maithê Trindade
+<img src="assets/hero.svg" alt="Maithê Trindade" width="100%" />
 
 Analista de Dados, com foco crescente em Machine Learning e Inteligência Artificial.
 Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoiam decisões de negócio.
-
-📍 Santos, SP · Baixada Santista &nbsp;·&nbsp; 💻 Projetos remotos em todo o Brasil
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myttrindade.github.io/portfolio/)
 [![E-mail](https://img.shields.io/badge/E--mail-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maithetrindade21@gmail.com)

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 260" width="900" height="260" font-family="'Courier New', monospace">
+  <defs>
+    <radialGradient id="hglow1" cx="85%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hglow2" cx="0%" cy="100%" r="75%">
+      <stop offset="0%" stop-color="#e879f9" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#e879f9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hglow3" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#f9a8d4" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#f9a8d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="heroTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f9a8d4"/>
+      <stop offset="45%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+    <pattern id="hgrid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M 38 0 L 0 0 0 38" fill="none" stroke="#f472b6" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="heroRounded">
+      <rect x="0" y="0" width="900" height="260" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#heroRounded)">
+    <rect width="900" height="260" fill="#0b0510"/>
+    <rect width="900" height="260" fill="url(#hgrid)"/>
+    <rect width="900" height="260" fill="url(#hglow1)"/>
+    <rect width="900" height="260" fill="url(#hglow2)"/>
+    <rect width="900" height="260" fill="url(#hglow3)"/>
+    <rect x="0.5" y="0.5" width="899" height="259" rx="20" fill="none" stroke="#2c1636" stroke-width="1"/>
+
+    <text x="450" y="95" font-size="46" font-weight="bold" fill="url(#heroTitle)" text-anchor="middle">Maithê Trindade</text>
+
+    <image href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=22&amp;duration=2600&amp;pause=1200&amp;color=F9A8D4&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=Data+Analyst+%C2%B7+Machine+Learning;Power+BI+%26+Modelos+Preditivos;Intelig%C3%AAncia+Artificial+Aplicada;Decis%C3%B5es+Orientadas+por+Dados"
+      x="170" y="120" width="560" height="40"/>
+
+    <text x="450" y="195" font-size="13" fill="#c2a6b6" text-anchor="middle">📍 Santos, SP · Baixada Santista &#160;&#160;·&#160;&#160; 💻 Projetos remotos em todo o Brasil</text>
+  </g>
+</svg>
