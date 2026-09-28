@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=4" alt="Maithê Trindade" width="100%" />
+<img src="https://raw.githubusercontent.com/myttrindade/myttrindade/5067134652becf978ed3163beaf5ac398a6639f1/assets/hero.svg" alt="Maithê Trindade" width="100%" />
 
 Analista de Dados, com foco crescente em Machine Learning e Inteligência Artificial.
 Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoiam decisões de negócio.
@@ -52,7 +52,7 @@ Transformo dados em dashboards, modelos preditivos e assistentes de IA que apoia
 
 <div align="center">
 
-<img src="assets/projetos.svg" alt="Projetos em destaque" width="100%" />
+<img src="https://raw.githubusercontent.com/myttrindade/myttrindade/5067134652becf978ed3163beaf5ac398a6639f1/assets/projetos.svg" alt="Projetos em destaque" width="100%" />
 
 </div>
 
