@@ -35,8 +35,7 @@
 
     <text x="450" y="95" font-size="46" font-weight="bold" fill="url(#heroTitle)" text-anchor="middle">Maithê Trindade</text>
 
-    <image href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=22&amp;duration=2600&amp;pause=1200&amp;color=F9A8D4&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=Data+Analyst+%C2%B7+Machine+Learning;Power+BI+%26+Modelos+Preditivos;Intelig%C3%AAncia+Artificial+Aplicada;Decis%C3%B5es+Orientadas+por+Dados"
-      x="170" y="120" width="560" height="40"/>
+    <text x="450" y="132" font-size="20" fill="#f9a8d4" text-anchor="middle">Data Analyst &#183; Machine Learning &#183; Intelig&#234;ncia Artificial</text>
 
     <text x="450" y="195" font-size="13" fill="#c2a6b6" text-anchor="middle">📍 Santos, SP · Baixada Santista &#160;&#160;·&#160;&#160; 💻 Projetos remotos em todo o Brasil</text>
   </g>
